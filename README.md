@@ -1,4 +1,6 @@
 # Mens_store
+
+<img src="Mens_ware/screenshots/Screenshot1.png" width="50%" height="30%">
 # Men's Store E-commerce Website
 
 Welcome to the Men's Store E-commerce Website! This README file provides an overview of the website, its features, and instructions for running and maintaining it.

@@ -1,10 +1,10 @@
 # Mens_store
 
-<img src="Mens_ware/screenshots/Screenshot1.png" width="40%" height="30%"> <img src="Mens_ware/screenshots/Screenshot2.png" width="40%" height="30%"> <br>
-<img src="Mens_ware/screenshots/Screenshot3.png" width="40%" height="30%"> <img src="Mens_ware/screenshots/Screenshot4.png" width="40%" height="30%"> <br>
-<img src="Mens_ware/screenshots/Screenshot5.png" width="40%" height="30%"> <img src="Mens_ware/screenshots/Screenshot6.png" width="40%" height="30%"> <br>
-<img src="Mens_ware/screenshots/Screenshot7.png" width="40%" height="30%"> <img src="Mens_ware/screenshots/Screenshot8.png" width="40%" height="30%"> <br>
-<img src="Mens_ware/screenshots/Screenshot9.png" width="40%" height="30%"> <img src="Mens_ware/screenshots/Screenshot10.png" width="40%" height="30%">
+<img src="Mens_ware/screenshots/Screenshot 1.png" width="40%" height="30%"> <img src="Mens_ware/screenshots/Screenshot 2.png" width="40%" height="30%"> <br>
+<img src="Mens_ware/screenshots/Screenshot 3.png" width="40%" height="30%"> <img src="Mens_ware/screenshots/Screenshot 4.png" width="40%" height="30%"> <br>
+<img src="Mens_ware/screenshots/Screenshot 5.png" width="40%" height="30%"> <img src="Mens_ware/screenshots/Screenshot 6.png" width="40%" height="30%"> <br>
+<img src="Mens_ware/screenshots/Screenshot 7.png" width="40%" height="30%"> <img src="Mens_ware/screenshots/Screenshot 8.png" width="40%" height="30%"> <br>
+<img src="Mens_ware/screenshots/Screenshot 9.png" width="40%" height="30%"> <img src="Mens_ware/screenshots/Screenshot 10.png" width="40%" height="30%">
 
 # Men's Store E-commerce Website
 
